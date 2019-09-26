@@ -1,7 +1,7 @@
 # Dracula for Facebook Messenger
 > A chrome extension dark theme for [Facebook Messenger](https://www.messenger.com/)
 
-![](https://github.com/ppartarr/dracula-messenger/blob/master/src/img/screenshot.png)
+![](https://github.com/ppartarr/dracula-messenger/blob/master/src/img/screenshot.jpg)
 
 ## Install
 The extension can be installed in the [Chrome Web Store](https://chrome.google.com/webstore/detail/dracula-theme-for-messeng/ijphgphffpboghbejdbjjoddacphjafh)
